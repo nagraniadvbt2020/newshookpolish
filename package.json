@@ -1,0 +1,39 @@
+{
+  "name": "Newshook PL",
+  "version": "1.0.0",
+  "description": "Polska wersja Newshooka, tłumacz: NagraniaDVBT 2020",
+  "main": "reposter.js",
+  "engines": {
+    "node": "10.x",
+    "npm": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node reposter.js"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "discord-js",
+    "discord-api",
+    "discordjs",
+    "discordjs-bot",
+    "javascript",
+    "discordjsbot",
+    "discordapp",
+    "discordbot",
+    "nodejs-bot",
+    "nodejs",
+    "node-js",
+    "bot",
+    "archive",
+    "repost",
+    "reposter",
+    "reposts"
+  ],
+  "author": "NagraniaDVBT 2020",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
